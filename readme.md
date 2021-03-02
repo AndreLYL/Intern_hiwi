@@ -1,0 +1,1 @@
+This reposity is mainly used to store internship and HIWI-related code, notes, logs and other files.
